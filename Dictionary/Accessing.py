@@ -3,7 +3,7 @@ d = { "name": "Naved",
       (1, 2): [1,2,4] }
 
 # Access using key
-print(d["name"])
+print(d["name"]) #Naved
 
 # Access using get()
-print(d.get("name"))
+print(d.get("name")) #Naved
